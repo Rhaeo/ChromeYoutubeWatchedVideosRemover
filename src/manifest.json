@@ -1,5 +1,5 @@
 {
-  "name": "Chrome YouTube Unwatched Videos to MarkDown List",
+  "name": "YouTube Videos to MarkDown",
   "version": "1.0",
   "manifest_version": 2,
   "description": "Creates a MarkDown list from unwatched video in the YouTube subscription list",
